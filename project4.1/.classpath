@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/study/15619/project4/hadoop-common-2.4.0-amzn-5.jar"/>
+	<classpathentry kind="lib" path="E:/study/15619/project4/hadoop-mapreduce-client-common-2.4.0-amzn-3.jar"/>
+	<classpathentry kind="lib" path="E:/study/15619/project4/hadoop-mapreduce-client-core-2.4.0-amzn-3.jar"/>
+	<classpathentry kind="lib" path="E:/study/15619/project4/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/study/15619/groupProject/phase1/hbase-0.94.18.jar"/>
+	<classpathentry kind="lib" path="E:/study/15619/groupProject/phase1/hbase-0.94.18-tests.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,5 @@
+http://hbase.apache.org/0.94/book/mapreduce.example.html
+http://stackoverflow.com/questions/4545579/hadoop-map-reduce-job-with-hdfs-input-and-hbase-output
+https://hadoop.apache.org/docs/current/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html
+http://stackoverflow.com/questions/780541/how-to-sort-a-hashmap-in-java
+https://hbase.apache.org/apidocs/org/apache/hadoop/hbase/mapreduce/TableReducer.html

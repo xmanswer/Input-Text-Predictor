@@ -1,0 +1,4 @@
+create external table ngram (phrase STRING, count INT) ROW FORMAT DELIMITED FIELDS TERMINATED BY '\t' LOCATION '/mnt/NGramOut/';
+hive -e 'select * from ngram order by count desc limit 100' > ngrams
+
+total line : 2538436908
